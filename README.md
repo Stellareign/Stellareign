@@ -1,4 +1,5 @@
-### Hi there,👋 I'm[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76D2C&random=false&width=435&lines=Anastasiia)](https://git.io/typing-svg)
+### Hi there,👋 I'm
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76D2C&random=false&width=435&lines=Anastasiia)](https://git.io/typing-svg)
 
 <!--
 **Stellareign/Stellareign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
