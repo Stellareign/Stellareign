@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
-🌱 I’m currently learning 
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+🌱 I’m currently learning Java
 
 
 
