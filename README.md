@@ -1,22 +1,12 @@
-![](https://camo.githubusercontent.com/8e0b6fcd86c463db499ee7cc4e58d18466be8be7b2762e64ad52b4333d25308e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d544b61746572696e6153267374796c653d706c617374696326636f6c6f723d626c7565)
 
-<h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
-🌱 I’m currently learning Java
+<h1 align="center">Hi 👋, I'm Anastasiia</h1>
+<h3 align="center">🌱 I’m currently learning Java</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stellareign&label=Profile%20views&color=0e75b6&style=flat" alt="stellareign" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-<!--
-**Stellareign/Stellareign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
