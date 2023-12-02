@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellareign&label=Profile%20views&color=0e75b6&style=flat" alt="stellareign" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[Stellareign]/[Stellareign]/main/profile-views.svg" height="50"/>](https://github.com/[Stellareign]) /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[Stellareign]/[Stellareign]/main/Profile%20views&color=0e75b6&style=flat"/>](https://github.com/[Stellareign]) /> </p>
 <!--[<img src="[https://raw.githubusercontent.com](https://komarev.com/ghpvc)/[Stellareign]/[Stellareign]/main/profile-views.svg" height="50"/>](https://github.com/[Stellareign])-->
 
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
