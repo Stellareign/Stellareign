@@ -1,5 +1,6 @@
 <!-- <![Visitor Count](https://profile-counter.glitch.me/{Stellareign}/count.svg)-->
 <!--![](https://komarev.com/ghpvc/?username=Stellareign) -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="Stellareign" /> </p>
 
 
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
