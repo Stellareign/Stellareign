@@ -1,5 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[Stellareign])
-
+![Visitor Count](https://profile-counter.glitch.me/{Stellareign}/count.svg)
 
 
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
