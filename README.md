@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?stellareign=<stellareign>)
+![Profile views](https://gpvc.arturio.dev/[Stellareign])
 
 
 
