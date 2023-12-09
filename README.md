@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?stellaeign=natterstefan&color=FAC151)
+
 
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
                                               
