@@ -1,5 +1,4 @@
 
-<iframe style="width: 100%; height: 26px;" frameborder="0"></iframe>
 
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
                                               
