@@ -1,4 +1,4 @@
-<iframe style="width: 100%; height: 26px;" src="https://dwweb.ru/__a-data/___sale/php/counter_1/dat/a9e457ce444ae7d2c2f027406456e9f5_example_php.dat" frameborder="0"></iframe>
+
 
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
                                               
