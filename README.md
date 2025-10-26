@@ -2,7 +2,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/gh/gh-username?color=blue&label=Profile+Views&style=flat-square" alt="Profile views counter" />
+  <img src="https://komarev.com/gh/stellareign=blue&label=Profile+Views&style=flat-square" alt="Profile views counter" />
 </p>
 
 🌱 Java forever
