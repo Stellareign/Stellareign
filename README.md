@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
                                               
 🌱 Java forever
-<p align="center">
+<p align="left">
   <img src="https://hits.sh/github.com/stellareign.svg?view=today-total&style=flat-square&label=Profile%20Views&color=blue" alt="Profile views counter"/>
 </p>
 
