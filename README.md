@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Anastasiia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>  </h1>
 
 <!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/gh/stellareign=blue&label=Profile+Views&style=flat-square" alt="Profile views counter" />
+<p align="left">
+  <img src="https://komarev.com/gh/Stellareign=blue&label=Profile+Views&style=flat-square" alt="Profile views counter" />
 </p>
 
 🌱 Java forever
