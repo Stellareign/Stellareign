@@ -2,7 +2,7 @@
 
 <!-- Visitor Counter -->
 <p align="left">
-  <img src="https://hits.sh/github.com/Stellareign.svg?view=today-total&style=flat-square&label=Profile%20Views&color=blue&extraCount=-1" alt="Profile views counter"/>
+  <img src="https://hits.sh/github.com/Stellareign.svg?view=today-total&style=flat-square&label=Profile%20Views&color=blue&labelColor=000&extraCount=-Stellareign" alt="Profile views counter"/>
 </p>
 
 
