@@ -4,9 +4,6 @@
                                               
 🌱 Java forever
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Stellareign" alt="Посетители">
-<script src="https://counter7.optistats.ovh/private/counter.js?c=ttps://github.com/Stellareign"></script>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
