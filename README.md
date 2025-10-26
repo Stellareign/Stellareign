@@ -4,7 +4,7 @@
                                               
 🌱 Java forever
 
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Stellareign" alt="Посетители">
 
 
 
